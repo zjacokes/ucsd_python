@@ -22,7 +22,7 @@ class Card:
             return str(self.value) + " of " + suit[self.suit-1]
 
 
-#####This was the first functional code I wrote, but I knew there was more I could do with my suit list so I kept plugging away at it
+#####This was the first functional code I wrote
 #    def get_display_string(self):
 #        if self.suit == 1:
 #            self.suit = "Clubs"
